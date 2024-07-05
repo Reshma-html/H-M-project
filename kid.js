@@ -4,6 +4,7 @@ var AccessoriesData = [
       name: "Oversized hoodie",
       
       price: 1999,
+      category:"girl"
       
     },
     {
@@ -11,6 +12,7 @@ var AccessoriesData = [
       name: "Sweatshirt",
       
       price: 1499,
+      category:"boy"
      
     },
     {
@@ -18,6 +20,7 @@ var AccessoriesData = [
       name: "Sequined dress",
       
       price: 2299,
+       category:"girl"
      
     },
     {
@@ -26,6 +29,7 @@ var AccessoriesData = [
       name: "Small shoulder bag",
       
       price: 1299,
+       category:"girl"
      
     },
     {
@@ -34,6 +38,7 @@ var AccessoriesData = [
       name: "Cropped top",
       
       price: 999,
+       category:"girl"
      
     },
     {
@@ -42,8 +47,8 @@ var AccessoriesData = [
       name: "90s Baggy High Waist Jeans",
       
       
-      
       price: 2299,
+      category:"boy"
      
     },
     {
@@ -52,6 +57,7 @@ var AccessoriesData = [
       name: "Strapless dress",
       
       price: 1599,
+       category:"girl"
      
     },
     {
@@ -60,6 +66,7 @@ var AccessoriesData = [
       name: "Jumper",
       
       price: 2299,
+       category:"boy"
      
     },
     {
@@ -68,6 +75,7 @@ var AccessoriesData = [
       name: "Oversized printed sweatshirt",
       
       price: 2499,
+       category:"boy"
      
     },
     {
@@ -76,6 +84,7 @@ var AccessoriesData = [
       name: "Knee-high boots",
       
       price: 5999,
+       category:"boy"
      
     },
     {
@@ -84,6 +93,7 @@ var AccessoriesData = [
       name: "Backless dress ",
       
       price: 2999,
+       category:"girl"
       
     },
     {
@@ -92,6 +102,7 @@ var AccessoriesData = [
       name: "Appliquéd puffer jacket",
       
       price: 3499,
+       category:"boy"
     }, 
     {
       image_url:
@@ -99,6 +110,7 @@ var AccessoriesData = [
       name: "Rib-knit cardigan",
       
       price: 1999,
+       category:"boy"
       
     },
     {
@@ -106,6 +118,7 @@ var AccessoriesData = [
       name: "Off-the-shoulder lace dress",
       
       price: 2299,
+       category:"girl"
       
     },
     {
@@ -114,6 +127,7 @@ var AccessoriesData = [
       name: "Chunky boots",
       
       price: 2999,
+      category:"boy"
      
     },
     {
@@ -122,6 +136,7 @@ var AccessoriesData = [
       name: "Double-breasted blazer dress",
       
       price: 2499,
+       category:"boy"
       
     },
     {
@@ -130,6 +145,7 @@ var AccessoriesData = [
       name: "Oversized poplin shirt",
       
       price:1999,
+      category:"girl"
      
     },
     {
@@ -138,6 +154,7 @@ var AccessoriesData = [
       name: "Low-waisted cargo trousers",
       
       price: 1999,
+      category:"boy"
      
     },
     {
@@ -146,6 +163,7 @@ var AccessoriesData = [
       name: "Large shoulder bag",
       
       price: 1599,
+      category:"girl"
      
     },
     {
@@ -153,6 +171,7 @@ var AccessoriesData = [
         "https://lp2.hm.com/hmgoepprod?set=source[/92/b0/92b010749e1424805b83aaeed9ec797da41d021d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
       name: " 90s Baggy High Jeans",
       price: 2999,
+      category:"boy"
     },
     {
       image_url:
@@ -160,6 +179,7 @@ var AccessoriesData = [
       name: "Flounced maxi dress",
       
       price: 1999,
+      category:"girl"
      
     },
     {
@@ -168,14 +188,14 @@ var AccessoriesData = [
       name: "Vest top with lace trims",
       
       price: 799,
-     
+     catergory:"boy"
     },
     {
       image_url:"https://lp2.hm.com/hmgoepprod?set=source[/81/9c/819c0606b03eb1998d2790021f621c5607d93fb3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
       name: "Canvas cargo trousers",
       
       price: 1599,
-      
+       catergory:"boy"
     },
     {
       image_url:
@@ -183,6 +203,7 @@ var AccessoriesData = [
         name: "Sweatshirt dress",
         
         price: 2299,
+         catergory:"girl"
     
     },
     {
@@ -190,6 +211,7 @@ var AccessoriesData = [
       name: "Oversized flannel shirt",
       
       price: 1499,
+       catergory:"boy"
      
     },
     {
@@ -198,6 +220,7 @@ var AccessoriesData = [
       name: " Leather gloves",
       
       price: 2299,
+       catergory:"boy"
       
     },
     {
@@ -206,6 +229,7 @@ var AccessoriesData = [
       name: "Cotton pyjamas",
       
       price: 1499,
+       catergory:"boy"
       
     },
     {
@@ -214,6 +238,7 @@ var AccessoriesData = [
       name: "Boots",
       
       price: 2499,
+      catergory:"boy"
      
     },
     {
@@ -229,7 +254,8 @@ var AccessoriesData = [
       "https://lp2.hm.com/hmgoepprod?set=source[/b6/f1/b6f134d191fabad7f5f87ce32d2d540bc9b59168.jpg],origin[dam],category[ladies_shoes],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/fullscreen]",
       name: "Knee-high boots",
       
-      price: 2299,
+      price: 2299, 
+      catergory:"girl"
       
     },
     {
@@ -238,6 +264,7 @@ var AccessoriesData = [
       name: "Printed hoodie",
       
       price: 1499,
+       catergory:"boy"
       
     },
     {
@@ -254,6 +281,7 @@ var AccessoriesData = [
       name: "Loose Straight High Jeans",
       
       price: 2999,
+       catergory:"boy"
      
     },
     {
@@ -262,6 +290,7 @@ var AccessoriesData = [
       name: "High-waisted leggings",
       
       price: 999,
+       catergory:"girl"
       
     },
     {
@@ -270,6 +299,7 @@ var AccessoriesData = [
       name: "Pyjama top and bottoms",
       
       price: 1499,
+       catergory:"girl"
       
     },
     {
@@ -278,6 +308,8 @@ var AccessoriesData = [
       name: "Calf-length boots",
       
       price: 4599,
+      catergory:"boy"
+       
      
     },
   ];
@@ -311,6 +343,34 @@ var AccessoriesData = [
     else{
       var filtered = AccessoriesData.filter(function (elem){
         return elem.category == sort_type;
+      })
+      Display(filtered);
+    }
+  }
+
+
+  function handle_items(){
+    var item_type = document.querySelector("#items").category;
+    
+    if(item_type=="none"){
+      Display(AccessoriesData);
+    }
+    else if(item_type == "boy" ){
+      AccessoriesData.sort(function (a, b){
+        return a.category - b.category;
+      });
+      // console.log(AccessoriesData);
+      Display(AccessoriesData);
+    }
+    else if(sort_type == "girl"){
+      AccessoriesData.sort(function (a,b){
+        return b.category - a.category;
+      });
+      Display(AccessoriesData);
+    }
+    else{
+      var filtered = AccessoriesData.filter(function (elem){
+        return elem.category == item_type;
       })
       Display(filtered);
     }

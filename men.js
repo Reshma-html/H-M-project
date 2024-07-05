@@ -351,7 +351,11 @@ var AccessoriesData = [
         // console.log(elm.image_url);
         basketLSData.push(addedProduct);
         localStorage.setItem("basket", JSON.stringify(basketLSData));
-        alert("Product added Successfully");
+
+        alert("Product added Successfully")
+        ;
+        
+       
       }
       document.querySelector("#beauty_product_container").append(div);
       div.append(img, Name, dollar, Price, button);
